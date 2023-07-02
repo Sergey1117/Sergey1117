@@ -1,0 +1,7 @@
+echo "# Sergey1117" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Sergey1117/Sergey1117.git
+ git push - ты главный
